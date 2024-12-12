@@ -5,8 +5,6 @@
 # to a new folder in the same directory as DDHunter. This is useful for filecarving images from hard drives
 # where it may be difficult for programs such as FTKImager or Autopsy/TSK to recover individual files from
 # a damaged drive. This program parses through the hex characters in the .dd image to recover files.
-# The file headers I have in this program were gained from my time as a student at Bloomsburg University
-# from Dr. Scott Inch in Files 1 and 2, and the python programming from Dr. Phil Polstra.
 
 import os
 
